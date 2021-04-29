@@ -1,9 +1,9 @@
-# Recommender System
+# Music Recommender System
 
 
-![picture1]()
+![picture1](https://raw.githubusercontent.com/twhipple/Music_Recommender_System/main/Images/patrick-fore-cPDH2ChdBps-unsplash.jpg)
 
-*  Source:  , unsplash.com*
+* Trying to pick out some new music, using data instead of a jukebox.  Source: Patrick Fore, unsplash.com*
 
 
 ## Introduction
